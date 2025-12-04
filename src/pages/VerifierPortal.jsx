@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import VerifierNavbar from "../components/verifierportal/VerifierNavbar";
+import VerifierNavbar from "../components/VerifierPortal/VerifierNavbar";
 import HeroSection from "../components/VerifierPortal/HeroSection";
 import VerificationMethodCard from "../components/VerifierPortal/VerificationMethodCard";
 import ScanByQRCode from "../components/VerifierPortal/ScanByQRCode";
